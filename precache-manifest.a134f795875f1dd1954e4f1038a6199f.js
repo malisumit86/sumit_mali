@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb2f7e0461918aab3cc4ffb6db8f456d",
+    "revision": "ee051fc5b5cdf347165ca9047048296b",
     "url": "/sumit_mali/index.html"
   },
   {
-    "revision": "6400e25b37315e63d533",
-    "url": "/sumit_mali/static/css/main.2eb2259b.chunk.css"
+    "revision": "3fe7a7fe07f22399b373",
+    "url": "/sumit_mali/static/css/main.4466be03.chunk.css"
   },
   {
-    "revision": "bba1f1670e7f44eab539",
-    "url": "/sumit_mali/static/js/2.79fb54de.chunk.js"
+    "revision": "32a3890633aa6ee355fd",
+    "url": "/sumit_mali/static/js/2.8bc55c96.chunk.js"
   },
   {
     "revision": "cf89bcfdc86db2c261a743301fbeb514",
-    "url": "/sumit_mali/static/js/2.79fb54de.chunk.js.LICENSE.txt"
+    "url": "/sumit_mali/static/js/2.8bc55c96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6400e25b37315e63d533",
-    "url": "/sumit_mali/static/js/main.8315e995.chunk.js"
+    "revision": "3fe7a7fe07f22399b373",
+    "url": "/sumit_mali/static/js/main.433693a4.chunk.js"
   },
   {
     "revision": "2d68d0a2fac351234825",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e5b5cf3b78c55e6d23bff73fbca164c2",
     "url": "/sumit_mali/static/media/keepnote.e5b5cf3b.png"
-  },
-  {
-    "revision": "6a3b4abb6ad95594a3dd4cbe55865ee1",
-    "url": "/sumit_mali/static/media/prof.6a3b4abb.jpg"
   },
   {
     "revision": "3c7b51d525dc60d10b13aa9bb25d770e",
