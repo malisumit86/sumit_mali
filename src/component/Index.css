@@ -1,0 +1,28 @@
+.body{
+  
+  background: black;
+  /* background: url(../coffee-apple.jpg) no-repeat; */
+    /* object-fit: cover; */
+  min-height: 100vh;
+  max-height: fit-content;
+  
+}
+
+
+/* body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+
+  background-image: url("img_girl.jpg");
+
+  
+  height: 100%; 
+
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
