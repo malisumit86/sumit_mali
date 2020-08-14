@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/sumit_mali/static/css/main.a079fc95.chunk.css",
-    "main.js": "/sumit_mali/static/js/main.e36b6f99.chunk.js",
-    "main.js.map": "/sumit_mali/static/js/main.e36b6f99.chunk.js.map",
+    "main.css": "/sumit_mali/static/css/main.92e82602.chunk.css",
+    "main.js": "/sumit_mali/static/js/main.2bda040d.chunk.js",
+    "main.js.map": "/sumit_mali/static/js/main.2bda040d.chunk.js.map",
     "runtime-main.js": "/sumit_mali/static/js/runtime-main.b8b30f24.js",
     "runtime-main.js.map": "/sumit_mali/static/js/runtime-main.b8b30f24.js.map",
-    "static/js/2.8bc55c96.chunk.js": "/sumit_mali/static/js/2.8bc55c96.chunk.js",
-    "static/js/2.8bc55c96.chunk.js.map": "/sumit_mali/static/js/2.8bc55c96.chunk.js.map",
+    "static/js/2.68f981e8.chunk.js": "/sumit_mali/static/js/2.68f981e8.chunk.js",
+    "static/js/2.68f981e8.chunk.js.map": "/sumit_mali/static/js/2.68f981e8.chunk.js.map",
     "index.html": "/sumit_mali/index.html",
-    "precache-manifest.2246b72476d35042118dc4f82e40a7aa.js": "/sumit_mali/precache-manifest.2246b72476d35042118dc4f82e40a7aa.js",
+    "precache-manifest.a9ce266b81ec110b6d913d4e7492843a.js": "/sumit_mali/precache-manifest.a9ce266b81ec110b6d913d4e7492843a.js",
     "service-worker.js": "/sumit_mali/service-worker.js",
-    "static/css/main.a079fc95.chunk.css.map": "/sumit_mali/static/css/main.a079fc95.chunk.css.map",
-    "static/js/2.8bc55c96.chunk.js.LICENSE.txt": "/sumit_mali/static/js/2.8bc55c96.chunk.js.LICENSE.txt",
+    "static/css/main.92e82602.chunk.css.map": "/sumit_mali/static/css/main.92e82602.chunk.css.map",
+    "static/js/2.68f981e8.chunk.js.LICENSE.txt": "/sumit_mali/static/js/2.68f981e8.chunk.js.LICENSE.txt",
     "static/media/coffee-apple.jpg": "/sumit_mali/static/media/coffee-apple.2dd213aa.jpg",
     "static/media/coronatracker.png": "/sumit_mali/static/media/coronatracker.c9c659a0.png",
     "static/media/game.png": "/sumit_mali/static/media/game.54d1e5c5.png",
     "static/media/instaclone.png": "/sumit_mali/static/media/instaclone.cd3a1342.png",
     "static/media/keepnote.png": "/sumit_mali/static/media/keepnote.e5b5cf3b.png",
+    "static/media/portfolio.png": "/sumit_mali/static/media/portfolio.0e025d5c.png",
     "static/media/quiz.png": "/sumit_mali/static/media/quiz.3c7b51d5.png",
     "static/media/sumit.jpeg": "/sumit_mali/static/media/sumit.c9548c27.jpeg",
     "static/media/sumit2.jpeg": "/sumit_mali/static/media/sumit2.cf5363e1.jpeg",
@@ -26,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b8b30f24.js",
-    "static/js/2.8bc55c96.chunk.js",
-    "static/css/main.a079fc95.chunk.css",
-    "static/js/main.e36b6f99.chunk.js"
+    "static/js/2.68f981e8.chunk.js",
+    "static/css/main.92e82602.chunk.css",
+    "static/js/main.2bda040d.chunk.js"
   ]
 }
