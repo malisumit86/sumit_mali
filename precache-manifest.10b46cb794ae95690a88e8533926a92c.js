@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e40057917b70460559cee64bd51569c",
+    "revision": "e27ab3fadfad34bc7bcaa14e69f0dcfc",
     "url": "/sumit_mali/index.html"
   },
   {
-    "revision": "3937d9d92178b1f9abe3",
+    "revision": "4f105b96861d670849ec",
     "url": "/sumit_mali/static/css/main.6e1b7506.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sumit_mali/static/js/2.68f981e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3937d9d92178b1f9abe3",
-    "url": "/sumit_mali/static/js/main.b512c9d0.chunk.js"
+    "revision": "4f105b96861d670849ec",
+    "url": "/sumit_mali/static/js/main.93ecaff7.chunk.js"
   },
   {
     "revision": "2d68d0a2fac351234825",
