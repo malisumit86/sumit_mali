@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sumit_mali/static/css/main.92e82602.chunk.css",
-    "main.js": "/sumit_mali/static/js/main.2bda040d.chunk.js",
-    "main.js.map": "/sumit_mali/static/js/main.2bda040d.chunk.js.map",
+    "main.css": "/sumit_mali/static/css/main.6e1b7506.chunk.css",
+    "main.js": "/sumit_mali/static/js/main.b512c9d0.chunk.js",
+    "main.js.map": "/sumit_mali/static/js/main.b512c9d0.chunk.js.map",
     "runtime-main.js": "/sumit_mali/static/js/runtime-main.b8b30f24.js",
     "runtime-main.js.map": "/sumit_mali/static/js/runtime-main.b8b30f24.js.map",
     "static/js/2.68f981e8.chunk.js": "/sumit_mali/static/js/2.68f981e8.chunk.js",
     "static/js/2.68f981e8.chunk.js.map": "/sumit_mali/static/js/2.68f981e8.chunk.js.map",
     "index.html": "/sumit_mali/index.html",
-    "precache-manifest.a9ce266b81ec110b6d913d4e7492843a.js": "/sumit_mali/precache-manifest.a9ce266b81ec110b6d913d4e7492843a.js",
+    "precache-manifest.1d8b996789874727fd349f185c29a8eb.js": "/sumit_mali/precache-manifest.1d8b996789874727fd349f185c29a8eb.js",
     "service-worker.js": "/sumit_mali/service-worker.js",
-    "static/css/main.92e82602.chunk.css.map": "/sumit_mali/static/css/main.92e82602.chunk.css.map",
+    "static/css/main.6e1b7506.chunk.css.map": "/sumit_mali/static/css/main.6e1b7506.chunk.css.map",
     "static/js/2.68f981e8.chunk.js.LICENSE.txt": "/sumit_mali/static/js/2.68f981e8.chunk.js.LICENSE.txt",
     "static/media/coffee-apple.jpg": "/sumit_mali/static/media/coffee-apple.2dd213aa.jpg",
     "static/media/coronatracker.png": "/sumit_mali/static/media/coronatracker.c9c659a0.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.b8b30f24.js",
     "static/js/2.68f981e8.chunk.js",
-    "static/css/main.92e82602.chunk.css",
-    "static/js/main.2bda040d.chunk.js"
+    "static/css/main.6e1b7506.chunk.css",
+    "static/js/main.b512c9d0.chunk.js"
   ]
 }
